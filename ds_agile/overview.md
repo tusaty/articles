@@ -16,10 +16,10 @@ Plan
  - Problem with current approach
  - Why iterative approach
  - Typical fails
-  a. Einstellung
-  a. Non-value driven
-  a. No interaction with end users
-  a. Following non-valid plan 
+    - Einstellung
+    - Non-value driven
+    - No interaction with end users
+    - Following non-valid plan 
 
 # 2. Putting new candidate tasks in the backlog
 
