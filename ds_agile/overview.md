@@ -19,12 +19,18 @@ Plan
     - Einstellung
     - Non-value driven
     - No interaction with end users
-    - Following non-valid plan 
+    - Following non-valid plan
+    - Hard limits not defined
+    - Not iterative
+    - Motivation loss
 
 # 2. Putting new candidate tasks in the backlog
-
+  - Core stories (stretch)
+  - Atomic tasks
+  - Lazy approach: details and tasks are added as story is selected by OM
 
 # 3. Planning with the team
+  -
 
 # 4. Daily routines: going through the work
 
